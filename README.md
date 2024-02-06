@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### My Skills 🧑🏼‍💻
-[![My Skills](https://skillicons.dev/icons?i=golang,php,laravel,vscode,mysql,mongo,redis,docker,rabbitmq&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=golang,php,laravel,vscode,mysql,mongo,redis,docker,rabbitmq,aws,kubernetes&theme=light)](https://skillicons.dev)  
 
 
 <!--
